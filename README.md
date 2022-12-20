@@ -1,3 +1,4 @@
 # SeminarioGIT
 Seminario GIT
-prueba
+
+Readme modificado por manu a ver que pasa ;)
